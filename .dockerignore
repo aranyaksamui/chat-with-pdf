@@ -1,0 +1,12 @@
+# Environment Variables
+.env
+.env.local
+.env.production
+.env.*
+
+# Python
+__pycache__/
+
+# DB
+chroma_db/
+
