@@ -6,7 +6,11 @@
 
 # Python
 __pycache__/
+.venv/
 
 # DB
 chroma_db/
+
+# Large files
+content/
 

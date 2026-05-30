@@ -1,5 +1,8 @@
 streamlit
 langchain
 langchain-google-genai
+langchain-chroma
+langchain-community
+langchain
 chromadb
 pypdf
